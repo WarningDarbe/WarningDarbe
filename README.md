@@ -8,7 +8,9 @@
 
 
 
+- 🔭 I’m currently working on ~~[Private Project]~~...
 
+- 🌱 I’m currently learning **Python**
 
 
 <h3 align="left">📫 How to reach me:</h3>
@@ -18,9 +20,7 @@
  <a href="https://www.instagram.com/need_some_reality" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-- 🔭 I’m currently working on ~~[Private Project]~~...
 
-- 🌱 I’m currently learning **Python**
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WarningDarbe&show_icons=true&locale=en" alt="WarningDarbe" /></p>
