@@ -18,7 +18,7 @@
  <a href="https://www.instagram.com/need_some_reality" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-- 🔭 I’m currently working on private...
+- 🔭 I’m currently working on ~~[Private Project]~~...
 
 - 🌱 I’m currently learning **Python**
  
