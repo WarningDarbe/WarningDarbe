@@ -17,7 +17,7 @@
 <p align="left">
  <a href="https://discord.com/users/852649767250952192" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.github.com/WarningDarbe" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
- <a href="https://www.instagram.com/need_some_reality" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
 </p>
 
 
